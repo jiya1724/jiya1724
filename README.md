@@ -21,10 +21,18 @@
 ```
 ---
 
-<div > <strong><h3>⚡ Code. Compete. Conquer. 🚀  
-</h3></strong>
-  <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" width="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="50px"  /> <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="50px" />  </div>
+<div>
+  <strong><h3>⚡ Code. Compete. Conquer. 🚀</h3></strong>
+  <a href="https://www.codechef.com/users/jiya1724" target="_blank">
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" width="50px"/>
+  </a>
+  <a href="https://codeforces.com/profile/jiya.t" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="50px"/>
+  </a>
+  <a href="https://leetcode.com/u/jiya1724/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="50px"/>
+  </a>
+</div>
 
 ---
 
